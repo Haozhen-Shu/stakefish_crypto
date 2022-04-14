@@ -1,0 +1,85 @@
+@media only screen and (min-width: 1024px){
+    .exchange-text{
+        margin-bottom: 32px;
+        font-size: 58px;
+    }
+
+     .list_titles{
+        width: 960px;
+        margin-bottom: 20px;
+        font-size: 20px;
+    }
+
+    .exchange_bag{
+        width: 960px;
+    }
+
+    .exchange_row{
+        width: 960px;
+    }
+
+    .exchange_img{
+        height:40px;
+    }
+
+    .exchange_name{
+        font-size: 18px;
+        width:25%;
+    }
+
+    .exchange_country{
+        font-size: 18px;
+    }
+
+    .exchange_url{
+    font-size: 18px;
+    }
+
+    .exchange_rank{
+    font-size: 18px;
+}
+
+   
+}
+
+@media only screen and (min-width: 768px){
+     .exchange-text{
+        margin-bottom: 22px;
+        font-size: 38px;
+     }
+
+      .list_titles{
+        width: 680px;
+        margin-bottom: 20px;
+         font-size: 16px;
+    }
+
+    .exchange_bag{
+        width: 680px;
+    }
+
+    .exchange_row{
+        width: 680px;
+    }
+
+    .exchange_img{
+        height:35px;
+    }
+
+    .exchange_name{
+        font-size: 15px;
+        width:25%;
+    }
+
+    .exchange_country{
+        font-size: 15px;
+    }
+
+    .exchange_url{
+    font-size: 15px;
+    }
+
+    .exchange_rank{
+    font-size: 15px;
+}
+}

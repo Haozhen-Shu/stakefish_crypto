@@ -1,0 +1,45 @@
+.exchange_detail_row{
+    width: 100%;
+    height:100%;
+    display:flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.exchange_detail{
+    margin-top: 5%;
+    width:70%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-bottom: 5%;
+}
+
+.titles_contents{
+    display:flex;
+    width: 95%;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.exchange_detail_titles{
+    width: 180px;
+    height: 100px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+.exchange_detail_data{
+    width: 220px;
+    height: 100px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+.description{
+    width: 95%;
+    display:flex;
+}

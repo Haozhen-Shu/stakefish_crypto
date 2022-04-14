@@ -1,6 +1,7 @@
-import { BrowserRouter, Route, Switch } from 'react-router-dom';
-import ExchangeList from './ExchangeList';
-import ExchangeDetails from './ExchangeDetails';
+import { BrowserRouter, Route, Switch } from "react-router-dom";
+import ExchangeList from "./ExchangeList";
+import ExchangeDetails from "./ExchangeDetails";
+// import { useMediaQuery } from 'react-responsive';
 
 function App() {
   return (
