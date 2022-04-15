@@ -6,7 +6,6 @@ import "./response.css";
 const Exchange = ({id, name, country,image, url, trust_score_rank }) => {
 
     return (
-        <div>
             <NavLink className='exchange_row' to={`/${id}`} onClick={()=>{window.location.href=`/${id}`}}>
                     <img src={image} alt='crypto' className="exchange_img"/>
                     <p className="exchange_name">{name}</p>
@@ -16,7 +15,6 @@ const Exchange = ({id, name, country,image, url, trust_score_rank }) => {
                        {trust_score_rank}
                     </p>
             </NavLink>
-        </div>
     );
 };
 

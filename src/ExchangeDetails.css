@@ -24,7 +24,7 @@
 }
 
 .exchange_detail_titles{
-    width: 180px;
+    width: 40%;
     height: 100px;
     display: flex;
     flex-direction: column;
@@ -32,7 +32,7 @@
 }
 
 .exchange_detail_data{
-    width: 220px;
+    width: 42%;
     height: 100px;
     display: flex;
     flex-direction: column;
@@ -42,4 +42,14 @@
 .description{
     width: 95%;
     display:flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.exchange_detail_desc{
+    width: 40%;
+}
+
+.exchange_detail_desc{
+    width:42%
 }

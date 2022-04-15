@@ -49,7 +49,7 @@ function ExchangeDetails () {
                 </div>
                 <div className="description">
                     <div className="exchange_detail_desc">Description:</div>
-                    <p className="exchange_detail_desc">{exchange.description}</p>
+                    <p className="exchange_detail_desc">.{exchange.description}</p>
                 </div>
             </div>
         )
